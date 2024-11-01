@@ -1,0 +1,12 @@
+C:\C#\tarea4P2\tarea4P2.Domain\obj\Debug\net8.0\tarea4P2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\tarea4P2\tarea4P2.Domain\obj\Debug\net8.0\tarea4P2.Domain.AssemblyInfoInputs.cache
+C:\C#\tarea4P2\tarea4P2.Domain\obj\Debug\net8.0\tarea4P2.Domain.AssemblyInfo.cs
+C:\C#\tarea4P2\tarea4P2.Domain\obj\Debug\net8.0\tarea4P2.Domain.csproj.CoreCompileInputs.cache
+C:\C#\tarea4P2\tarea4P2.Domain\bin\Debug\net8.0\tarea4P2.Domain.deps.json
+C:\C#\tarea4P2\tarea4P2.Domain\bin\Debug\net8.0\tarea4P2.Domain.dll
+C:\C#\tarea4P2\tarea4P2.Domain\bin\Debug\net8.0\tarea4P2.Domain.pdb
+C:\C#\tarea4P2\tarea4P2.Domain\obj\Debug\net8.0\tarea4P2.Domain.csproj.AssemblyReference.cache
+C:\C#\tarea4P2\tarea4P2.Domain\obj\Debug\net8.0\tarea4P2.Domain.dll
+C:\C#\tarea4P2\tarea4P2.Domain\obj\Debug\net8.0\refint\tarea4P2.Domain.dll
+C:\C#\tarea4P2\tarea4P2.Domain\obj\Debug\net8.0\tarea4P2.Domain.pdb
+C:\C#\tarea4P2\tarea4P2.Domain\obj\Debug\net8.0\ref\tarea4P2.Domain.dll
